@@ -22,3 +22,5 @@ Yêu cầu: Dành cho người lần đầu làm quen với Python
 12\. Viết ứng dụng (hướng dẫn viết một số ứng dụng đơn giản)
 
 ![](../.gitbook/assets/image.png)
+
+### Đăng ký ở đây: [https://forms.gle/MkBVUQcS14EGFrMn6](https://forms.gle/MkBVUQcS14EGFrMn6)
