@@ -20,3 +20,5 @@ Yêu cầu: Dành cho người lần đầu làm quen với Python
 10\. Lập trình hàm\
 11\. Hướng đối tượng\
 12\. Viết ứng dụng (hướng dẫn viết một số ứng dụng đơn giản)
+
+![](../.gitbook/assets/image.png)
