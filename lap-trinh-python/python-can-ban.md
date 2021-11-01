@@ -16,3 +16,5 @@ Nội dung chính của khóa học:&#x20;
 * [ ] – Cấu trúc lặp&#x20;
 * [ ] – Hàm và tái sử dụng mã
 
+{% embed url="https://www.youtube.com/watch?v=Ylc2X9_yBg0" %}
+
