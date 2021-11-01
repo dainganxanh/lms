@@ -1,2 +1,0 @@
-# LẬP TRÌNH PYTHON
-
