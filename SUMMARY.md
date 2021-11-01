@@ -4,6 +4,7 @@
 
 ## LẬP TRÌNH PYTHON
 
+* [LẬP TRÌNH PYTHON](lap-trinh-python/lap-trinh-python.md)
 * [Python căn bản](lap-trinh-python/python-can-ban.md)
 * [Cấu trúc dữ liệu Python](lap-trinh-python/cau-truc-du-lieu-python.md)
 * [Python Phổ thông](lap-trinh-python/python-pho-thong.md)
