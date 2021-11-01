@@ -1,11 +1,6 @@
 ---
-description: Các khóa học lập trình Python
+description: PYTHON LÀ "NGOẠI NGỮ" ĐỂ GIAO TIẾP VỚI NGƯỜI MÁY DỄ HỌC NHẤT
 ---
 
 # LẬP TRÌNH PYTHON
 
->
->
-> > <mark style="color:orange;">**PYTHON LÀ "**</mark><mark style="color:red;">**NGOẠI NGỮ**</mark><mark style="color:orange;">**" ĐỂ GIAO TIẾP VỚI NGƯỜI MÁY DỄ HỌC NHẤT**</mark>
->
->
