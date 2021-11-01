@@ -9,3 +9,7 @@ Khóa học sử dụng học liệu khóa học “Programming for Everybody”
 – Cách tạo từ điển\
 – Sắp xếp dữ liệu\
 – Cách sử dụng cấu trúc tuple trong Python
+
+{% embed url="https://www.youtube.com/watch?v=aIm7jNNMc8c" %}
+Video giới thiệu khóa học&#x20;
+{% endembed %}
