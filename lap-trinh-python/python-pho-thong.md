@@ -2,7 +2,10 @@
 
 **Chương trình Tin học 11 hiện hành**\
 Ngoài kiến thức được trình bày trong SGK Tin học 11, Khóa học còn bổ sung những kiến thức cần thiết khi giải quyết các vấn đề SGK đặt ra bằng ngôn ngữ lập trình Python. Đồng thời mở rộng, bổ sung, nâng cao để người học có thể vận dụng sức mạnh của Python trong công việc và giải quyết các bài toán tin học.\
-Khóa học còn giúp người học viết một số ứng dụng, dự án thú vị phù hợp để triển khai, hướng dẫn học sinh trong nhà trường phổ thông.\
+Khóa học còn giúp người học viết một số ứng dụng, dự án thú vị phù hợp để triển khai, hướng dẫn học sinh trong nhà trường phổ thông.
+
+Yêu cầu: Dành cho người lần đầu làm quen với Python
+
 **Khóa học gồm 12 chủ đề:**\
 1\. Những vấn đề cơ bản\
 2\. Thao tác với tệp\
