@@ -9,5 +9,6 @@
 * [TIN HỌC ỨNG DỤNG](tin-hoc-ung-dung/README.md)
   * [An toàn dữ liệu cá nhân](tin-hoc-ung-dung/an-toan-du-lieu-ca-nhan.md)
   * [CNTT trong dạy học](tin-hoc-ung-dung/cntt-trong-day-hoc.md)
+  * [Soạn giảng e-Learning](tin-hoc-ung-dung/soan-giang-e-learning.md)
   * [CNTT trong trường học](tin-hoc-ung-dung/cntt-trong-truong-hoc.md)
   * [Trích dẫn trong Nghiên cứu khoa học](tin-hoc-ung-dung/trich-dan-trong-nghien-cuu-khoa-hoc.md)
