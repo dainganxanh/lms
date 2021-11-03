@@ -6,6 +6,8 @@ Khóa học còn giúp người học viết một số ứng dụng, dự án t
 
 Yêu cầu: Dành cho người lần đầu làm quen với Python
 
+{% embed url="https://www.youtube.com/watch?v=2m64qG2YTPA" %}
+
 **Khóa học gồm 12 chủ đề:**\
 1\. Những vấn đề cơ bản\
 2\. Thao tác với tệp\
