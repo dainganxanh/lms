@@ -33,8 +33,8 @@ Học trên LMS: Học qua video bài giảng, bài đọc, làm bài tập, th�
 
 #### Năm 2021
 
-* [x] Python Phổ thông 101 (buối sáng): Từ **14/11/2021**
-* [x] Python Phổ thông 102 (buổi chiều): Từ **14/11/2021**
+* [x] Python Phổ thông 101 (các buối sáng Chủ nhật): Từ **14/11/2021**
+* [x] Python Phổ thông 102 (các buổi buổi chiều Chủ nhật): Từ **14/11/2021**
 * [ ] Tập huấn giáo viên THPT lớp 2: 10/9/2021
 * [ ] Tập huấn giáo viên THPT lớp 1: 06/9/2021
 * [ ] Tập huấn giáo viên THCS lớp 2: 01/9/2021
