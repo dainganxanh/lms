@@ -31,7 +31,7 @@ Yêu cầu: Dành cho người lần đầu làm quen với Python
 
 Học qua video bài giảng, bài đọc, làm bài tập, thực hành... trên LMS do học viên tự sắp xếp thời gian.
 
-**Học trực tuyến thời gian thực với giảng viên:**
+<mark style="color:purple;">**Học trực tuyến thời gian thực với giảng viên:**</mark>
 
 ### Năm 2021
 
