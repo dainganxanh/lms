@@ -27,11 +27,13 @@ Yêu cầu: Dành cho người lần đầu làm quen với Python
 
 ## Lịch học
 
-Học trên LMS: Học qua video bài giảng, bài đọc, làm bài tập, thực hành... trên LMS do học viên tự sắp xếp thời gian.
+<mark style="background-color:green;">**Học trên LMS:**</mark>
 
-### Học trực tuyến thời gian thực với giảng viên
+Học qua video bài giảng, bài đọc, làm bài tập, thực hành... trên LMS do học viên tự sắp xếp thời gian.
 
-#### Năm 2021
+<mark style="background-color:green;">**Học trực tuyến thời gian thực với giảng viên:**</mark>
+
+### Năm 2021
 
 * [x] Python Phổ thông 101 (các buối sáng Chủ nhật): Từ **14/11/2021**
 * [x] Python Phổ thông 102 (các buổi buổi chiều Chủ nhật): Từ **14/11/2021**
