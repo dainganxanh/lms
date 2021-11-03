@@ -29,9 +29,11 @@ Yêu cầu: Dành cho người lần đầu làm quen với Python
 
 Học trên LMS: Học qua video bài giảng, bài đọc, làm bài tập, thực hành... trên LMS do học viên tự sắp xếp thời gian.
 
-#### Học trực tuyến thời gian thực với giảng viên:
+### Học trực tuyến thời gian thực với giảng viên
 
-* Python Phổ thông 101 (buối sáng): Từ 14/11/2021
-* Python Phổ thông 102 (buổi chiều): Từ 14/11/2021
+#### Năm 2021
+
+* Python Phổ thông 101 (buối sáng): Từ **14/11/2021**
+* Python Phổ thông 102 (buổi chiều): Từ **14/11/2021**
 
 ### Đăng ký ở đây: [https://forms.gle/MkBVUQcS14EGFrMn6](https://forms.gle/MkBVUQcS14EGFrMn6)
