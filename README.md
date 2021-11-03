@@ -10,10 +10,10 @@ Các khóa học được xây dựng theo phương thức dạy học kết h�
 
 **Mỗi bài học/chủ đề sẽ có các phần: **
 
-* [ ] Phòng học trực tuyến (dạy-học online thời gian thực)
-* [ ] Học liệu (bài đọc, video bài giảng)
-* [ ] Bài tập và thực hành (trắc nghiệm, bài thực hành)
-* [ ] Tài liệu tham khảo / đọc thêm
+* [x] Phòng học trực tuyến (dạy-học online thời gian thực)
+* [x] Học liệu (bài đọc, video bài giảng)
+* [x] Bài tập và thực hành (trắc nghiệm, bài thực hành)
+* [x] Tài liệu tham khảo / đọc thêm
 
 ## Lớp học sắp khai giảng
 
