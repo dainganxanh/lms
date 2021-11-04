@@ -12,3 +12,4 @@
   * [Soạn giảng e-Learning](tin-hoc-ung-dung/soan-giang-e-learning.md)
   * [CNTT trong trường học](tin-hoc-ung-dung/cntt-trong-truong-hoc.md)
   * [Trích dẫn trong Nghiên cứu khoa học](tin-hoc-ung-dung/trich-dan-trong-nghien-cuu-khoa-hoc.md)
+* [🏫 Đăng nhập vào LMS](https://python.neolms.com)
