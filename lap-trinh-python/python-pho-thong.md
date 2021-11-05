@@ -25,6 +25,8 @@ Yêu cầu: Dành cho người lần đầu làm quen với Python
 
 ![Giao diện LMS lớp học](../.gitbook/assets/image.png)
 
+![SGK Python Tin học 11 và Tin học 8](https://dainganxanh.com/wp-content/uploads/2020/10/SGK-Python.jpg)
+
 ## Lịch học
 
 <mark style="color:purple;">**Học trên LMS:**</mark>
