@@ -44,3 +44,5 @@ Học qua video bài giảng, bài đọc, làm bài tập, thực hành... trê
 * [ ] Tập huấn giáo viên THCS lớp 1: 25/8/2021
 
 ### Đăng ký ở đây: [https://forms.gle/MkBVUQcS14EGFrMn6](https://forms.gle/MkBVUQcS14EGFrMn6)
+
+### Tham gia nhóm Zalo: [https://zalo.me/g/uucxui948](https://zalo.me/g/uucxui948)
