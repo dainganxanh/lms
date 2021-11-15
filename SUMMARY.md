@@ -6,7 +6,7 @@
   * [Cấu trúc dữ liệu Python](lap-trinh-python/cau-truc-du-lieu-python.md)
   * [Python Phổ thông](lap-trinh-python/python-pho-thong.md)
   * [Python Thực chiến](lap-trinh-python/lap-trinh-python/python-thuc-chien.md)
-  * [Chấm bài Tin học](lap-trinh-python/cham-bai-tin-hoc.md)
+  * [Chấm bài làm Python](lap-trinh-python/cham-bai-lam-python.md)
 * [TIN HỌC ỨNG DỤNG](tin-hoc-ung-dung/README.md)
   * [An toàn dữ liệu cá nhân](tin-hoc-ung-dung/an-toan-du-lieu-ca-nhan.md)
   * [CNTT trong dạy học](tin-hoc-ung-dung/cntt-trong-day-hoc.md)
