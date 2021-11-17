@@ -10,6 +10,7 @@
 * [CƠ SỞ DỮ LIỆU](co-so-du-lieu/README.md)
   * [Cơ sở dữ liệu](co-so-du-lieu/co-so-du-lieu.md)
   * [Hệ quản trị CSDL](co-so-du-lieu/he-quan-tri-csdl.md)
+  * [Python và MySQL](co-so-du-lieu/python-va-mysql.md)
   * [PHP và MySQL](co-so-du-lieu/php-va-mysql.md)
 * [TIN HỌC ỨNG DỤNG](tin-hoc-ung-dung/README.md)
   * [An toàn dữ liệu cá nhân](tin-hoc-ung-dung/an-toan-du-lieu-ca-nhan.md)
