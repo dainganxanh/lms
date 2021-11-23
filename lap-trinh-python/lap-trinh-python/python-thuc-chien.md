@@ -21,3 +21,7 @@ Khóa học gồm 18 Chủ đề, từ nhập môn đến thực chiến để n
 * [ ] Chủ đề 17 – Xử lý hình ảnh&#x20;
 * [ ] Chủ đề 18 – Điều khiển Bàn phím và Chuột bằng Tự động hóa GUI
 
+### Đăng ký học
+
+{% embed url="https://forms.gle/zCXdENT7KTBoUAMY9" %}
+
