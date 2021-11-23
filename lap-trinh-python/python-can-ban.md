@@ -20,5 +20,9 @@ Nội dung chính của khóa học:&#x20;
 Video giới thiệu khóa học Dr. Chuck
 {% endembed %}
 
+### Đăng ký
+
+{% embed url="https://forms.gle/8JCXhDTdeRLSXjo27" %}
+
 {% embed url="https://trinket.io/embed/python3/5c20021156" %}
 
