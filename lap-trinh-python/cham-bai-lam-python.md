@@ -15,3 +15,6 @@ Cách sinh Test và chấm bài thi Tin học tự động bằng phần mềm T
 * [x] Viết code sinh Test
 * [x] Sử dụng phần mềm Themis để chấm bài với bộ Test đã sinh
 
+### Đăng ký
+
+{% embed url="https://forms.gle/GcYyKRBDRomyhmov7" %}
