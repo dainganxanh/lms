@@ -20,7 +20,7 @@ Nội dung chính của khóa học:&#x20;
 Video giới thiệu khóa học Dr. Chuck
 {% endembed %}
 
-### Đăng ký
+### Đăng ký học
 
 {% embed url="https://forms.gle/8JCXhDTdeRLSXjo27" %}
 
