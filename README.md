@@ -15,6 +15,8 @@ Các khóa học được xây dựng theo phương thức dạy học kết h�
 * [x] Bài tập và thực hành (trắc nghiệm, bài thực hành)
 * [x] Tài liệu tham khảo / đọc thêm
 
+> <mark style="color:red;">**HỌC NHỮNG ĐIỀU CƠ BẢN ĐỂ MỌI THỨ TRỞ NÊN ĐƠN GIẢN**</mark>
+
 ## Lớp học sắp khai giảng
 
 {% content-ref url="lap-trinh-python/python-pho-thong.md" %}
