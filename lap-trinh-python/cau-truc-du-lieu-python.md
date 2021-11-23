@@ -13,3 +13,8 @@ Khóa học sử dụng học liệu khóa học “Programming for Everybody”
 {% embed url="https://www.youtube.com/watch?v=aIm7jNNMc8c" %}
 Video giới thiệu khóa học Dr. Chuck
 {% endembed %}
+
+### Đăng ký học
+
+{% embed url="https://forms.gle/45cRYrQCnboyT24LA" %}
+
