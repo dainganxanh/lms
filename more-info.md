@@ -2,6 +2,8 @@
 
 {% tabs %}
 {% tab title="Thông tin tác giả" %}
+Tác giả, người hướng dẫn các khóa học:
+
 ThS. Nguyễn Văn Nghiêm
 
 Email: dainganxanh@msn.com
