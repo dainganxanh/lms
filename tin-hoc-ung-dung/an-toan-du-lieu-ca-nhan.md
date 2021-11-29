@@ -8,3 +8,8 @@ Khóa học này giúp người học: &#x20;
 * [ ] Đồng bộ dữ liệu lên đám mây an toàn và bảo mật
 * [ ] Chia sẻ dữ liệu đảm bảo các tùy chọn riêng tư
 * [ ] Được cung cấp tài khoản lưu trữ đám mây không giới hạn dung lượng
+
+### Xem video giới thiệu tài khoản lưu trữ đám mây 2 trong 1
+
+{% embed url="https://www.youtube.com/watch?v=fetY27TkIfQ" %}
+
