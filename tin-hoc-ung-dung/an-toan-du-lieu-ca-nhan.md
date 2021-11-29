@@ -13,3 +13,4 @@ Khóa học này giúp người học: &#x20;
 
 {% embed url="https://www.youtube.com/watch?v=fetY27TkIfQ" %}
 
+Trường hợp không tham gia lớp học có thể đăng ký sử dụng tài khoản 2 trong 1 tại đây: [https://forms.gle/uMwCgdzEpW9jy52t6](https://forms.gle/uMwCgdzEpW9jy52t6)
