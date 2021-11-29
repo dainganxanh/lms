@@ -10,6 +10,8 @@ Email: dainganxanh@msn.com
 {% endtab %}
 
 {% tab title="Học phí" %}
+Tài khoản nhận học phí:
+
 Số tài khoản: 107004051617&#x20;
 
 Ngân hàng: VietinBank (TMCP Công thương Việt Nam)&#x20;
