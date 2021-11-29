@@ -1,4 +1,4 @@
-# ✍ More info
+# ☎ Liên hệ
 
 {% tabs %}
 {% tab title="Thông tin tác giả" %}
