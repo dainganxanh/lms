@@ -1,4 +1,4 @@
-# More info >>>
+# ✍ More info
 
 {% tabs %}
 {% tab title="Thông tin tác giả" %}

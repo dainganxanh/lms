@@ -20,4 +20,4 @@
   * [Trích dẫn trong Nghiên cứu khoa học](tin-hoc-ung-dung/trich-dan-trong-nghien-cuu-khoa-hoc.md)
 * [🏫 Đăng nhập vào LMS](https://python.neolms.com)
 * [🌎 dainganxanh.com](https://dainganxanh.com)
-* [More info >>>](more-info-greater-than-greater-than-greater-than.md)
+* [✍ More info](more-info.md)
