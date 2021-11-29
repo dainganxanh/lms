@@ -4,10 +4,10 @@
 
 Khóa học này giúp người học: &#x20;
 
-* [ ] Tổ chức dữ liệu cá nhân một cách khoa học;
-* [ ] Đồng bộ dữ liệu lên đám mây an toàn và bảo mật
-* [ ] Chia sẻ dữ liệu đảm bảo các tùy chọn riêng tư
-* [ ] Được cung cấp tài khoản lưu trữ đám mây không giới hạn dung lượng
+* [x] Tổ chức dữ liệu cá nhân một cách khoa học;
+* [x] Đồng bộ dữ liệu lên đám mây an toàn và bảo mật
+* [x] Chia sẻ dữ liệu đảm bảo các tùy chọn riêng tư
+* [x] Được cung cấp tài khoản lưu trữ đám mây không giới hạn dung lượng
 
 ### Xem video giới thiệu tài khoản lưu trữ đám mây 2 trong 1
 
