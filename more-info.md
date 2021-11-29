@@ -2,7 +2,7 @@
 
 {% tabs %}
 {% tab title="Thông tin tác giả" %}
-Tác giả, người hướng dẫn các khóa học:
+_**Tác giả, người hướng dẫn các khóa học:**_
 
 ThS. Nguyễn Văn Nghiêm
 
