@@ -6,7 +6,9 @@ description: Sinh Test, chấm bài và một số vấn đề về bài thi Tin
 
 Học cách sinh Test và chấm bài thi Tin học tự động bằng phần mềm Themis và Python TestMaker&#x20;
 
-**Đối tượng: **Giáo viên dạy Tin học trong các trường THCS, THPT
+**Đối tượng:** Giáo viên dạy Tin học trong các trường THCS, THPT
+
+**Người hướng dẫn:** ThS. Nguyễn Văn Nghiêm, tác giả phần mềm sinh test chấm bài Python tự động "**PythonTestMaker**"
 
 Để đánh giá thuật toán của một bài toán trong Tin học hiện nay chúng ta sử dụng phần mềm chấm tự động. Phần mềm chấm bài tự động phổ biến được dùng trong các kỳ thi học sinh giỏi Tin học cũng như công tác giảng dạy, bồi dưỡng học sinh giỏi Tin học là phần mềm Themis. Khi chấm bài, Themis sẽ khởi chạy chương trình bài làm của học sinh để đối chiếu kết quả bài làm với bộ dữ liệu (input, output) chuẩn – được gọi là bộ Test. Như vậy, để có thể chấm được bài làm của học sinh thì ngoài phần mềm chấm ta cần có bộ Test cho bài toán tương ứng.
 
