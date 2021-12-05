@@ -16,8 +16,8 @@ Học cách sinh Test và chấm bài thi Tin học tự động bằng phần m
 
 * [x] Sinh bộ Test tự động
 * [x] Hiệu chỉnh và chuẩn hóa bộ Test
-* [x] Viết code sinh Test
 * [x] Sử dụng phần mềm Themis để chấm bài với bộ Test đã sinh
+* [x] Viết code sinh Test
 
 ### Đăng ký
 
