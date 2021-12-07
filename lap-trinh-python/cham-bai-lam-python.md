@@ -6,7 +6,7 @@ description: Sinh Test, chấm bài và một số vấn đề về bài thi Tin
 
 Học cách sinh Test và chấm bài thi Tin học tự động bằng phần mềm Themis và Python TestMaker&#x20;
 
-**Đối tượng:** Giáo viên dạy Tin học trong các trường THCS, THPT đã có thể sử dụng Python trong dạy học chương trình theo SGK.
+**Đối tượng:** Giáo viên dạy Tin học trong các trường THCS, THPT đã học lớp "[**Python Phổ thông**](python-pho-thong.md)" hoặc có thể sử dụng Python trong dạy học chương trình theo SGK.
 
 **Người hướng dẫn:** ThS. Nguyễn Văn Nghiêm, tác giả phần mềm sinh test chấm bài Python tự động "**PythonTestMaker**"
 
