@@ -25,3 +25,4 @@
 ## ✍ Ghi chép
 
 * [💻 Ubuntu Linux](ghi-chep/ubuntu-linux.md)
+* [🔃 aaPanel Webserver](ghi-chep/aapanel-webserver.md)
