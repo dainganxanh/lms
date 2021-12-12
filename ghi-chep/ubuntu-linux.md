@@ -2,13 +2,21 @@
 
 ## Basic commands
 
-sudo apt update \
+```
+sudo apt update 
 sudo apt upgrade
+```
 
-### Bộ gõ tiếng Việt ibus-unikey
+### Bộ gõ tiếng Việt ibus-bamboo
 
-sudo apt-get install ibus-unikey\
-ibus restart
+```
+sudo apt update
+sudo apt install ibus-bamboo
+```
 
-Gỡ bỏ: sudo apt-get remove ibus-unikey
+Gỡ bỏ:
 
+```
+sudo apt remove ibus-bamboo
+sudo apt autoclean && sudo apt autoremove
+```
