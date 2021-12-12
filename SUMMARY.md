@@ -21,3 +21,7 @@
 * [🏫 Đăng nhập vào LMS](https://python.neolms.com)
 * [🌎 dainganxanh.com](https://dainganxanh.com)
 * [☎ Liên hệ](lien-he.md)
+
+## ✍ Ghi chép
+
+* [💻 Ubuntu Linux](ghi-chep/ubuntu-linux.md)
