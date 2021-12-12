@@ -23,11 +23,11 @@ sudo apt autoclean && sudo apt autoremove
 
 ## Text editor
 
-### Sublime Text
-
 ```
-// Dùng SublimTex quyền sudo: 
+// Dùng Sublime Text quyền sudo: 
 suso subl <file>
+
+// Dùng vim hay nano cũng tương tự
 ```
 
 ## Lỗi hay gặp
