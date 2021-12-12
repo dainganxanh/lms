@@ -59,6 +59,8 @@ sudo apt install  lxde
 
 #### Lỗi Authentication required to refresh system repositories
 
+Lỗi này thường phát sinh sau khi cài remote desktop
+
 ```
 sudo usermod -a -G adm <username>
 sudo usermod -a -G sudo <username>
