@@ -21,6 +21,15 @@ sudo apt remove ibus-bamboo
 sudo apt autoclean && sudo apt autoremove
 ```
 
+## Text editor
+
+### Sublime Text
+
+```
+// Dùng SublimTex quyền sudo: 
+suso subl <file>
+```
+
 ## Lỗi hay gặp
 
 #### Lỗi Authentication required to refresh system repositories
@@ -29,3 +38,4 @@ sudo apt autoclean && sudo apt autoremove
 sudo usermod -a -G adm <username>
 sudo usermod -a -G sudo <username>
 ```
+
