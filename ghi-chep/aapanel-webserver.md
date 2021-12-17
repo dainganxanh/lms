@@ -45,3 +45,20 @@ define('WP_HOME','http://yourdomain.com');
 define('WP_SITEURL','http://yourdomain.com');
 }
 ```
+
+### Lỗi không update được bài
+
+Publishing failed. You are probably offline
+
+Cài Really Simple SSL plugin và thêm vào file .htaccess code sau:
+
+```
+# Really Simple SSL
+Header always set Strict-Transport-Security: "max-age=31536000" env=HTTPS
+Header always set Content-Security-Policy "upgrade-insecure-requests"
+Header always set X-Content-Type-Options "nosniff"
+Header always set X-XSS-Protection "1; mode=block"
+Header always set Expect-CT "max-age=7776000, enforce"
+Header always set Referrer-Policy: "no-referrer-when-downgrade"
+# End Really Simple SSL
+```
