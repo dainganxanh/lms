@@ -21,3 +21,7 @@ Các khóa học được xây dựng theo phương thức dạy học kết h�
 [cham-bai-lam-python.md](lap-trinh-python/cham-bai-lam-python.md)
 {% endcontent-ref %}
 
+{% content-ref url="lap-trinh-python/python-pho-thong.md" %}
+[python-pho-thong.md](lap-trinh-python/python-pho-thong.md)
+{% endcontent-ref %}
+
