@@ -15,5 +15,9 @@ Các khóa học được xây dựng theo phương thức dạy học kết h�
 * [x] Bài tập và thực hành (trắc nghiệm, bài thực hành)
 * [x] Tài liệu tham khảo / đọc thêm
 
+## <mark style="color:orange;">Lớp sắp khai giảng</mark>
 
+{% content-ref url="lap-trinh-python/cham-bai-lam-python.md" %}
+[cham-bai-lam-python.md](lap-trinh-python/cham-bai-lam-python.md)
+{% endcontent-ref %}
 
