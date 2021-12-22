@@ -35,6 +35,12 @@ Học qua video bài giảng, bài đọc, làm bài tập, thực hành... trê
 
 <mark style="color:purple;">**Học trực tuyến thời gian thực với giảng viên:**</mark>
 
+### <mark style="color:orange;">Năm 2022</mark>
+
+*   [x] Python Phổ thông 102 (các buổi chiều Chủ nhật): Đang nhận đăng ký
+
+    (khi đủ số lượng học viên sẽ có email thông báo thời gian khai giảng)
+
 ### Năm 2021
 
 * [x] Python Phổ thông 101 (các buổi buổi chiều Chủ nhật): Từ **14/11/2021**
