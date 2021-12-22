@@ -4,6 +4,8 @@ description: Sinh Test, chấm bài và một số vấn đề về bài thi Tin
 
 # Chấm bài làm Python
 
+![](../.gitbook/assets/themis1-0-3-127.jpg)
+
 Học cách sinh Test và chấm bài thi Tin học tự động bằng phần mềm Themis và Python TestMaker&#x20;
 
 **Đối tượng:** Giáo viên dạy Tin học trong các trường THCS, THPT đã học lớp "[**Python Phổ thông**](python-pho-thong.md)" hoặc có thể sử dụng Python trong dạy học chương trình theo SGK.
