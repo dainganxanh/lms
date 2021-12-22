@@ -19,7 +19,7 @@ Học cách sinh Test và chấm bài thi Tin học tự động bằng phần m
 * [x] Sử dụng phần mềm Themis để chấm bài với bộ Test đã sinh
 * [x] Viết code sinh Test
 
-## Khai giảng khóa mới: 01/2022
+## Khai giảng khóa mới: <mark style="color:red;">01/2022</mark>
 
 Thời gian học: Tối thứ Bảy, ngày 01/01/2022
 
