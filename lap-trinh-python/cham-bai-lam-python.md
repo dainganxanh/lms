@@ -21,7 +21,7 @@ Học cách sinh Test và chấm bài thi Tin học tự động bằng phần m
 
 ## Khai giảng khóa mới: <mark style="color:red;">01/2022</mark>
 
-Thời gian học: Tối thứ Bảy, ngày 01/01/2022
+Thời gian học: Tối thứ Bảy, Chủ nhật (ngày 01-02/01/2022)
 
 Học phí: 200k ([xem tại đây](../lien-he.md))
 
