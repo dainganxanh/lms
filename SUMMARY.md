@@ -21,6 +21,7 @@
 * [🏫 Đăng nhập vào LMS](https://python.neolms.com)
 * [🌎 dainganxanh.com](https://dainganxanh.com)
 * [☎ Liên hệ](lien-he.md)
+* [📺 Kênh Youtube bài giảng](https://www.youtube.com/dainganxanh)
 
 ## ✍ Ghi chép
 
