@@ -1,6 +1,12 @@
 # ☎ Liên hệ
 
 {% tabs %}
+{% tab title="Theo dõi kênh Youtube" %}
+Thầy cô giáo và các bạn có thể theo dõi kênh Youtube để tiếp cận sớm nhất các video bài giảng từ dainganxanh.
+
+{% embed url="https://www.youtube.com/dainganxanh" %}
+{% endtab %}
+
 {% tab title="Thông tin tác giả" %}
 _**Tác giả, người hướng dẫn các khóa học:**_
 
