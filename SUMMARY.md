@@ -20,8 +20,8 @@
   * [Trích dẫn trong Nghiên cứu khoa học](tin-hoc-ung-dung/trich-dan-trong-nghien-cuu-khoa-hoc.md)
 * [🏫 Đăng nhập vào LMS](https://python.neolms.com)
 * [🌎 dainganxanh.com](https://dainganxanh.com)
+* [🎯 Kênh Youtube](https://www.youtube.com/dainganxanh)
 * [☎ Liên hệ](lien-he.md)
-* [📺 Kênh Youtube bài giảng](https://www.youtube.com/dainganxanh)
 
 ## ✍ Ghi chép
 
