@@ -25,7 +25,8 @@ Học cách sinh Test và chấm bài thi Tin học tự động bằng phần m
 
 Kết hợp học qua LMS và online.&#x20;
 
-Thời gian học online: Tối thứ Bảy, Chủ nhật (ngày 01-02/01/2022). Thời gian còn lại học qua LMS (người học tự chủ thời gian).
+Thời gian học online: Tối thứ Bảy, Chủ nhật _(đủ số lượng học viên để tổ chức lớp sẽ có email thông báo cụ thể thời gian đến thầy cô)_. \
+Thời gian còn lại học qua LMS (người học tự chủ thời gian).
 
 Học phí: 200k ([xem tại đây](../lien-he.md))
 
