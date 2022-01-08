@@ -15,6 +15,10 @@ Kiểm tra trạng thái các port: ufw status
 
 Cài đặt Nginx, MySQL, FTP, PHP, phpMyadmin, Mail Server (LEMP)
 
+Basic command
+
+![](<../.gitbook/assets/image (1).png>)
+
 ## Wordpress
 
 Bật URL Rewrite
