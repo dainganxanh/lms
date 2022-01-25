@@ -1,7 +1,7 @@
 # Cơ sở dữ liệu
 
 Thử edit bằng markdown từ github 
-```Python:
+```python
 # Thử code python
 def inx():
     return print('ABC')
