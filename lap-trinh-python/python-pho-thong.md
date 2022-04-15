@@ -37,9 +37,7 @@ Học qua video bài giảng, bài đọc, làm bài tập, thực hành... trê
 
 ### <mark style="color:orange;">Năm 2022</mark>
 
-*   [x] Python Phổ thông 102 (các buổi chiều Chủ nhật): Đang nhận đăng ký
-
-    (khi đủ số lượng học viên sẽ có email thông báo thời gian khai giảng)
+* [x] Python Phổ thông 102 (các buổi chiều Chủ nhật): Từ **17/4/2022**
 
 ### Năm 2021
 
