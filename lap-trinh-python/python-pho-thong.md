@@ -37,6 +37,7 @@ Học qua video bài giảng, bài đọc, làm bài tập, thực hành... trê
 
 ### <mark style="color:orange;">Năm 2022</mark>
 
+* [ ] Python Phổ thông 10<mark style="color:orange;">3</mark> (các buổi Tối thứ 4, 6) Khai giảng khi đủ học viên mở lớp
 * [x] Python Phổ thông 102 (các buổi chiều Chủ nhật): Từ **17/4/2022**
 
 ### Năm 2021
